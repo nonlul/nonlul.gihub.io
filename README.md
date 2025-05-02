@@ -1,6 +1,5 @@
 # nonlul.gihub.io
 deploy:
   type: git
-  repo: 你复制的地址
+  repo: git@github.com:nonlul/nonlul.gihub.io.git
   branch: master
-
